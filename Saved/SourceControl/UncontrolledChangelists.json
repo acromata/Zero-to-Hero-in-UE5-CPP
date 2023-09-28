@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Maps/MainMap.umap",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Player/PlayerGamemode.uasset",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Player/Model/Animations/AttackNotify/EndAttack.uasset",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Player/Model/Animations/AttackNotify/AttackNotify.uasset",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Player/BP_PlayerCharacter.uasset",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Player/Model/Animations/Attack.uasset",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Enemies/BP_Box.uasset",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Player/BP_PlayerCharacterTEMP.uasset",
+				"C:/dev/Projects/Unreal Engine/TutorialUE53/Content/Player/Input/PlayerInput.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TutorialUE53.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TutorialUE53.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TutorialUE53Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TutorialUE53">
+      <UniqueIdentifier>{8A3DC309-74D2-3FBD-9533-6251640D7280}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TutorialUE53\TutorialUE53.Build.cs">
+      <Filter>Source\TutorialUE53</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TutorialUE53\TutorialUE53.cpp">
+      <Filter>Source\TutorialUE53</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialUE53\TutorialUE53.h">
+      <Filter>Source\TutorialUE53</Filter>
+    </ClInclude>
+    <Filter Include="Source\TutorialUE53\Components">
+      <UniqueIdentifier>{782A1C39-8889-381F-B77B-CE056E717AE1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TutorialUE53\Components\HealthComponent.cpp">
+      <Filter>Source\TutorialUE53\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialUE53\Components\HealthComponent.h">
+      <Filter>Source\TutorialUE53\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\TutorialUE53\Player">
+      <UniqueIdentifier>{0046EC1B-A689-3CD4-9EC9-DFDF98F6650B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TutorialUE53\Player\PlayerCharacter.cpp">
+      <Filter>Source\TutorialUE53\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialUE53\Player\PlayerCharacter.h">
+      <Filter>Source\TutorialUE53\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
